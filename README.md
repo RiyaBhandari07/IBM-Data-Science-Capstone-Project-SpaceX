@@ -62,7 +62,7 @@ The project successfully demonstrates the end-to-end Data Science lifecycle:
 
 ## Capstone Presentation 
 
-[Winning Space Race with Data Science](https://github.com/RiyaBhandari07/IBM-Data-Science-Capstone-Project-SpaceX/main/Winning-Space-Race-with-Data-Science.pptx)
+[Winning Space Race with Data Science](https://github.com/RiyaBhandari07/IBM-Data-Science-Capstone-Project-SpaceX/blob/main/Capstone%20SpaceX%20Data%20Science%20Presentation.pdf)
 
 Presentation summarizing:
 - Business problem
