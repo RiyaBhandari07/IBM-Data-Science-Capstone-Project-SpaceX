@@ -15,6 +15,21 @@ The goal of this project is to answer:
 
 **Can we predict whether a Falcon 9 first-stage booster will land successfully using historical launch data?**
 
+## 🧰 Technologies Used
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly Dash
+- Folium
+- BeautifulSoup
+- Requests
+- Scikit-Learn
+- Jupyter Notebook
+
 ## 📊 Key Insights  
 
 ### Launch Success Trends
@@ -57,20 +72,6 @@ Presentation summarizing:
 - Machine learning results
 - Final recommendations
 
-## 🧰 Technologies Used
-
-- Python
-- SQL
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly Dash
-- Folium
-- BeautifulSoup
-- Requests
-- Scikit-Learn
-- Jupyter Notebook
 
 ## 👩‍💻 Author
 
