@@ -10,7 +10,26 @@ SpaceX significantly reduces launch costs through booster reusability. Predictin
 ---
 
 ## Repository Structure
-
+```
+📁 IBM-Data-Science-Capstone-Project-SpaceX/
+├── Plots/
+├── Capstone SpaceX Data Science Presentation.pdf                    
+├── Data Collection Using API.ipynb                  
+├── Data Collection Using Web Scraping.ipynb                  
+├── Data Wrangling.ipynb              
+├── EDA Using SQL.ipynb               
+├── EDA with Data Visualization.ipynb
+├── Interactive Launch Site Visualization Using Folium.ipynb
+├── Machine Learning Prediction.ipynb
+├── README.md
+├── dataset_part_1.csv
+├── dataset_part_2.csv
+├── dataset_part_3.csv
+├── my_data1.db
+├── spacex-dash-app.py
+├── spacex_launch_geo.csv
+├──spacex_web_scraped.csv
+```
 
 ---
 
