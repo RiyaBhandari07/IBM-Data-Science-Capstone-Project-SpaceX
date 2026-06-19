@@ -7,6 +7,13 @@ This project was completed as part of the IBM Data Science Professional Certific
 
 SpaceX significantly reduces launch costs through booster reusability. Predicting landing success helps estimate launch costs and provides valuable insights for competing aerospace companies seeking to bid against SpaceX.
 
+---
+
+## Repository Structure
+
+
+---
+
  ## 🎯 Business Problem 
 
 SpaceX advertises Falcon 9 launches at approximately $62 million per launch, while competitors often exceed $165 million per launch. A major reason for this cost advantage is the successful recovery and reuse of the Falcon 9 first-stage booster.
