@@ -7,9 +7,8 @@ This project was completed as part of the IBM Data Science Professional Certific
 
 SpaceX significantly reduces launch costs through booster reusability. Predicting landing success helps estimate launch costs and provides valuable insights for competing aerospace companies seeking to bid against SpaceX.
 
----
-
 ## Repository Structure
+
 ```
 📁 IBM-Data-Science-Capstone-Project-SpaceX/
 ├── Plots/
@@ -28,10 +27,9 @@ SpaceX significantly reduces launch costs through booster reusability. Predictin
 ├── my_data1.db
 ├── spacex-dash-app.py
 ├── spacex_launch_geo.csv
-├──spacex_web_scraped.csv
-```
+└── spacex_web_scraped.csv
 
----
+```
 
  ## 🎯 Business Problem 
 
