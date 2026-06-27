@@ -7,6 +7,7 @@ This project was completed as part of the IBM Data Science Professional Certific
 
 SpaceX significantly reduces launch costs through booster reusability. Predicting landing success helps estimate launch costs and provides valuable insights for competing aerospace companies seeking to bid against SpaceX.
 
+----
 ## Repository Structure
 
 ```
@@ -30,7 +31,7 @@ SpaceX significantly reduces launch costs through booster reusability. Predictin
 └── spacex_web_scraped.csv
 
 ```
-
+----
  ## 🎯 Business Problem 
 
 SpaceX advertises Falcon 9 launches at approximately $62 million per launch, while competitors often exceed $165 million per launch. A major reason for this cost advantage is the successful recovery and reuse of the Falcon 9 first-stage booster.
@@ -39,6 +40,7 @@ The goal of this project is to answer:
 
 **Can we predict whether a Falcon 9 first-stage booster will land successfully using historical launch data?**
 
+----
 ## 🧰 Technologies Used
 
 - Python
@@ -54,6 +56,7 @@ The goal of this project is to answer:
 - Scikit-Learn
 - Jupyter Notebook
 
+----
 ## 📊 Key Insights  
 
 ### Launch Success Trends
@@ -67,6 +70,7 @@ The goal of this project is to answer:
 - Multiple classification models achieved strong performance.
 - Machine learning can effectively predict landing success using publicly available launch data.
 
+----
 ## 📈 Results 
 The project successfully demonstrates the end-to-end Data Science lifecycle:
 
@@ -84,6 +88,7 @@ The project successfully demonstrates the end-to-end Data Science lifecycle:
 
 ✔ Business Insights & Reporting 
 
+----
 ## Capstone Presentation 
 
 [Winning Space Race with Data Science](https://github.com/RiyaBhandari07/IBM-Data-Science-Capstone-Project-SpaceX/blob/main/Capstone%20SpaceX%20Data%20Science%20Presentation.pdf)
@@ -96,7 +101,7 @@ Presentation summarizing:
 - Machine learning results
 - Final recommendations
 
-
+----
 ## 👩‍💻 Author
 
 ### Riya Bhandari 
